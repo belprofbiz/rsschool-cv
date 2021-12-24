@@ -1,1 +1,1 @@
-https://belprofbiz.github.io/rsschool-cv/cv
+https://sergeychepikov.github.io/rsschool-cv/cv
