@@ -1,12 +1,13 @@
 **Сергей Чепиков**
+
 **Контакты:**
-**Телефон:** +37544 5423683
-**Эл. Почта:** belprofbiz@yandex.ru
-Telegram: @axiomer
-LinkedIn
+
+- Телефон: +37544 5423683
+- Эл. Почта: belprofbiz@yandex.ru
+- Telegram: @axiomer
 
 **Кратко о себе:**
-Я хочу изучить Front-End разработку в RSSchool !
+Хочу изучить Front-End разработку!
 
 **Пример кода:**
 var a = 1;
@@ -17,11 +18,8 @@ var c = a + b;
 Ничего
 
 **Образование и курсы:**
-Видеокурс CS50
-Видеокурсы JS, CSS, HTML, Git на YouTube-канале Glo Academy
-JavaScript https://learn.javascript.ru/
-Адаптивный веб-дизайн FreeCodeCamp https://www.freecodecamp.org/certification/mrks77/responsive-web-design
-Алгоритмы JavaScript и структуры данных FreeCodeCamp https://www.freecodecamp.org/certification/mrks77/javascript-algorithms-and-data-structures
+HTML Academy
+Видеокурсы JS, CSS, HTML, Git на YouTube-каналах
 
 **Язык:**
-Уровень английского - А2
+Уровень английского - читаю
